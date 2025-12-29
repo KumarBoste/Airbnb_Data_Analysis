@@ -13,17 +13,28 @@ The project focuses on answering the following key business and analytical quest
 
 ## Data Visualization & Analysis
 Various Python libraries such as Pandas, Matplotlib, and Seaborn were used to visualize and analyze the dataset.
+
 #### Key Visualizations Created:
-- Price Distribution Analysis
-  - Histograms and box plots to understand pricing spread and detect outliers.
-- Room Type Analysis
-  - Bar charts showing the count and average price of different room types.
-- Neighborhood-Based Analysis
-  - Visual comparison of listings and prices across neighborhoods.
-- Availability Analysis
-  - Line plots and bar charts showing availability trends.
-- Correlation Heatmap
-  - To identify relationships between price, reviews, availability, and minimum nights.
+
+### Price Distribution Analysis
+![1](https://github.com/KumarBoste/Airbnb_Data_Analysis/blob/main/Python%20Analysis/Charts/1.png)
+- Histograms and box plots to understand pricing spread and detect outliers.
+
+### Room Type Analysis
+![2](https://github.com/KumarBoste/Airbnb_Data_Analysis/blob/main/Python%20Analysis/Charts/2.png)
+- Bar charts showing the count and average price of different room types.
+
+### Neighborhood-Based Analysis
+![3](https://github.com/KumarBoste/Airbnb_Data_Analysis/blob/main/Python%20Analysis/Charts/3.png)
+- Visual comparison of listings and prices across neighborhoods.
+
+### Availability Analysis
+![4](https://github.com/KumarBoste/Airbnb_Data_Analysis/blob/main/Python%20Analysis/Charts/4.png)
+- Line plots and bar charts showing availability trends.
+
+### Correlation Heatmap
+![5](https://github.com/KumarBoste/Airbnb_Data_Analysis/blob/main/Python%20Analysis/Charts/5.png)
+- To identify relationships between price, reviews, availability, and minimum nights.
 
 Insights Gained:
 - Entire homes/apartments are generally priced higher than private or shared rooms.
