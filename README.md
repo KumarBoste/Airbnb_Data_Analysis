@@ -13,7 +13,7 @@ The project focuses on answering the following key business and analytical quest
 
 ## Data Visualization & Analysis
 Various Python libraries such as Pandas, Matplotlib, and Seaborn were used to visualize and analyze the dataset.
-####Key Visualizations Created:
+#### Key Visualizations Created:
 - Price Distribution Analysis
   - Histograms and box plots to understand pricing spread and detect outliers.
 - Room Type Analysis
